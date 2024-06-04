@@ -1,0 +1,35 @@
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\obj\Debug\DVHextractor.csprojAssemblyReference.cache
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\obj\Debug\DVHextractor.MainForm.resources
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\obj\Debug\Assignment7.Properties.Resources.resources
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\obj\Debug\DVHextractor.csproj.GenerateResource.cache
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\obj\Debug\DVHextractor.csproj.CoreCompileInputs.cache
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+C:\Users\efura\Documents\C#\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.MainForm.resources
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.csproj.GenerateResource.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.csproj.CoreCompileInputs.cache
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\DVHextractor.esapi.dll.config
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\DVHextractor.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\DVHextractor.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.Properties.Resources.resources
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.esapi.dll
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.esapi.pdb
+G:\Gemensam\Till-folders and personal folders\Erik_Fura\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.csprojAssemblyReference.cache
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\DVHextractor.esapi.dll.config
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\DVHextractor.esapi.dll
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\DVHextractor.esapi.pdb
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\VMS.TPS.Common.Model.API.dll
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\VMS.TPS.Common.Model.Types.dll
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\VMS.TPS.Common.Model.API.xml
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\bin\Debug\VMS.TPS.Common.Model.Types.xml
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.csproj.AssemblyReference.cache
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.MainForm.resources
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.Properties.Resources.resources
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.csproj.GenerateResource.cache
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.csproj.CoreCompileInputs.cache
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.csproj.CopyComplete
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.esapi.dll
+H:\02 Programmering\C# scripting\01 Eclipse scripts\DVHextractor\DVHextractor\DVHextractor\obj\Debug\DVHextractor.esapi.pdb
